@@ -1,4 +1,8 @@
-
+/**
+ * Lance 2 thrads avec un counter
+ * @author Sébastien Vignoud
+ *
+ */
 public class Main {
 
 	public static void main(String[] args) {
